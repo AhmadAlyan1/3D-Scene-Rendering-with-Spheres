@@ -44,8 +44,4 @@ python main.py
 - Python 3.x
 - NumPy
 - Pillow (PIL)
-
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE). Feel free to contribute or modify!
-
 ---
